@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"name": "Python Workshop",
+			"path": "../.."
+		},
+		{
+			"name": "05_intruccion_while",
+			"path": "../../../../../Downloads/05_intruccion_while"
+		},
+		{
+			"name": "06_instruccion_for",
+			"path": "../../../../../Downloads/06_instruccion_for"
+		},
+		{
+			"name": "07_listas",
+			"path": "../../../../../Downloads/07_listas"
+		},
+		{
+			"name": "08_piedra_papel_tijera_2",
+			"path": "../../../../../Downloads/08_piedra_papel_tijera_2"
+		},
+		{
+			"name": "09_agilidad_aritmetica",
+			"path": "../../../../../Downloads/09_agilidad_aritmetica"
+		},
+		{
+			"name": "10_agilidad_aritmetica_2",
+			"path": "../../../../../Downloads/10_agilidad_aritmetica_2"
+		},
+		{
+			"name": "11_reflejos_daltonicos",
+			"path": "../../../../../Downloads/11_reflejos_daltonicos"
+		},
+		{
+			"name": "12_rising_btl",
+			"path": "../../../../../Downloads/12_rising_btl"
+		},
+		{
+			"name": "13_fonte_cristo",
+			"path": "../../../../../Downloads/13_fonte_cristo"
+		},
+		{
+			"name": "07_piedra_papel_tijera",
+			"path": "../../../../../Downloads/07_piedra_papel_tijera"
+		}
+	],
+	"settings": {}
+}
